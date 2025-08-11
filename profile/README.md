@@ -21,7 +21,7 @@ PPT 링크: [PPT](https://docs.google.com/presentation/d/1QBwRqSsVbyO0bk7C9iwoeR
 
 ### 💡 솔루션
 - 모임 중심의 일정·스코어 통합 관리  
-- 실시간 스코어 기록 공유(WebSocket)  
+- 게임중 스코어 기록 공유  
 - 경기 후 통계·랭킹 자동 집계  
 - 유저 친화적인 UI/UX와 브랜드 아이덴티티 적용
 
